@@ -43,7 +43,7 @@ Secure network segmentation
 
 ## Diagram
 
-![Data Center Architecture](diagrams/buenos-aires-datacenter.png)
+![Data Center Architecture](buenos-aires-datacenter.png)
 
 ## What I Learned
 
